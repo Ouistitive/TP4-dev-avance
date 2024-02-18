@@ -1,0 +1,6 @@
+/.idea/
+/R6.A.05-TP-Secu1-data/node_modules/
+/R6.A.05-TP-Secu1-auth/node_modules/
+
+/R6.A.05-TP-Secu1-data/package-lock.json
+/R6.A.05-TP-Secu1-auth/package-lock.json
